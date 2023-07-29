@@ -1,0 +1,63 @@
+body {
+    background-color: beige;
+    margin: 0;
+}
+li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 2px;
+}
+h3 {
+    font-size: 30px;
+    font-weight: lighter;
+    margin: -5px 15px 10px -5px;
+}
+
+#title {
+    background-color: orange;
+    padding: 20px;
+    margin: 0 auto;
+ 
+}
+.left {
+    color: white;
+    font-size: 20px;
+    float: left;
+    top: 1.5%;
+    position: absolute;
+    margin: 0 0 50px 0;
+}
+.right {
+    color: white;
+    float: right;
+    position: absolute;
+    right: 2%;
+    top: -1.5%;
+    font-size: 20px;
+}
+
+#categories {
+    clear: both;
+    display: inline;
+    margin: 25px; 
+    position: absolute;
+
+}
+.boxes {
+    background-color: white;
+    padding: 20px;
+    border: 3px solid orange;
+    float: left;
+    height: 500px;
+    width: 200px;
+    margin: 10px 20px;
+    
+}
+.end  {
+    color: white;
+    background-color: orange;
+    padding: 5px 50px;
+    margin: 10px 3px;
+}  
+
+
